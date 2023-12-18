@@ -1,2 +1,3 @@
 var1='big booty latina' 
-print(var1)
+var2 = "alexgay"
+print(var1, var2)
